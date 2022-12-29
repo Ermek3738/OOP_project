@@ -5,8 +5,7 @@ A Library Management System made using the concepts of Object Oriented Programmi
 
 ## Interface
 <p align="middle">
-   https://github.com/Ermek3738/OOP_project/blob/images/interface.PNG?raw=true
-   <img src="../images/interface.PNG" width="400"/>
+   <img src="../main/images/interface.PNG" width="400"/>
    <img src="../images/interface2.PNG" width="400"/>
 </p>   
 
