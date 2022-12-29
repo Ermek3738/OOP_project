@@ -5,8 +5,8 @@ A Library Management System made using the concepts of Object Oriented Programmi
 
 ## Interface
 <p align="middle">
-   <img src="../master/images/interface.PNG" width="400"/>
-   <img src="../master/images/interface2.PNG" width="400"/>
+   <img src="../images/interface.PNG" width="400"/>
+   <img src="../images/interface2.PNG" width="400"/>
 </p>   
 
 ## Actors:
